@@ -28,7 +28,7 @@
     import  LivePlayer  from "live-cat-vue";
     Vue.use(liveCat)
  ```
- 
+
  ```html
   <live-player :appKey="xxxxx"></live-player>
  ```
@@ -38,5 +38,4 @@
 | ------- | ------ | ---------------------- | ----- |
 | appKey  | String | ''                     | 应用key |
 | address | String | https://app.3dcat.live | 地址     |
-|         |        |                        |       |
 
