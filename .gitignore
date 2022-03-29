@@ -1,0 +1,8 @@
+/dict
+.vscode
+node_modules
+yarn-error.log*
+
+
+/docs/dict/*
+/docs/node_modules
