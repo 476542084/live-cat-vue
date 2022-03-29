@@ -1,6 +1,6 @@
 {
   "name": "live-cat-vue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./live-cat.cjs.js",
   "module": "./live-cat.esm.js",
   "author": "Jim <476542084@qq.com>",
