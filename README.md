@@ -13,18 +13,24 @@
 ### 使用
 
 #### 1、按需引用
- ```html
+ ```js
     import { LivePlayer } from "live-cat-vue";
     components: { LivePlayer },
+ ```
 
-    <live-player :appKey="xxxxx"></live-player>
+ ```html
+  <live-player :appKey="xxxxx"></live-player>
  ```
 
 #### 2、全局引用
 
- ```html 
+ ```js 
     import  LivePlayer  from "live-cat-vue";
     Vue.use(liveCat)
+ ```
+ 
+ ```html
+  <live-player :appKey="xxxxx"></live-player>
  ```
 
 ### 参数
