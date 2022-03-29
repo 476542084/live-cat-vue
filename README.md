@@ -31,6 +31,6 @@
 | 名称      | 类型     | 默认                     | 描述    |
 | ------- | ------ | ---------------------- | ----- |
 | appKey  | String | ''                     | 应用key |
-| address | String | https://app.3dcat.live | 地址    |
+| address | String | https://app.3dcat.live | 地址     |
 |         |        |                        |       |
 
